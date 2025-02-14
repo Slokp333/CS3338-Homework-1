@@ -1,0 +1,1 @@
+"CS3338-Homework-1 we forked and cloned the target repo. Then I updated the empty places in the html file. Then my groupmate updated their end and I added, commited and pushed each time. We learned to navigate more with github web and desktop."
